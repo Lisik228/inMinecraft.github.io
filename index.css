@@ -1,0 +1,32 @@
+h1{
+color:black}
+h1{
+	color:black;
+text-align:center;}
+main{
+background-color:sandybrown;
+height:1000px;
+width: 1100px}
+section{
+	background-color:sandybrown;
+	height:333px;
+width:1100px}
+
+img{
+box-shadow: 5px 5px 40px 2px #3e2723;}
+aside{
+	background-color: chocolate;
+	height:7400px;
+width: 230px;
+float: right;
+box-shadow: 1px 1px 40px 2px #3e2723}
+body{
+cursor: url llaacc.jpg,auto}
+	footer{
+		height:300px;
+	width:900px;
+	 margin: 0 auto;
+	box-align: center;
+	box-shadow:1px 1px 40px 2px #3e2723}
+
+		
